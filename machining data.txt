@@ -1,0 +1,21 @@
+[
+2
+{
+3
+"Process": "Turning",
+4
+"Workpiece Material": "Inconel 718",
+5
+"Tool Material": "Carbide",
+6
+"Cutting Speed [m/min]": 30,
+7
+"Feed [mm/rev]": 0.168,
+8
+"Depth of Cut [mm]": 1,
+9
+"Surface Roughness Ra [μm]": 0.87
+10
+}
+11
+]
